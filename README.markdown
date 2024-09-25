@@ -1,3 +1,1 @@
-[Play it...][pong]
-
-[pong]:(https://pong.nocalhost.com/
+[Play it here...](https://pong.nocalhost.com/)
